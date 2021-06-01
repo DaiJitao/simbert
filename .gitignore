@@ -1,0 +1,11 @@
+##ignore this file##
+
+/models/*
+/pretrained-models/*
+.idea/*
+/pretrained-models/
+/data/
+/qt_sim/predict/data/
+qt_sim/predict/qt_sim_models/*
+*.txt
+*.xls
